@@ -47,7 +47,7 @@ SMEX_USERS = []
 for x in SUDO:
     SMEX_USERS.append(x)
     
-async def star_deadly():
+async def start_yukki():
     global idk
     global ydk
     global wdk
