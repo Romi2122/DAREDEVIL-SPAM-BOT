@@ -311,7 +311,7 @@ async def star_deadly():
             pass 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_deadly())       
+loop.run_until_complete(start_yukki())       
 
 async def gifspam(e, smex):
     try:
@@ -701,10 +701,10 @@ async def _(e):
 @cdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 @edk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 @ddk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-async def _(e):ö
-        global que
-        usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱\n\nCommand:\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
-        if e.sender_id in SMEX_USERS:
+async def _(e):
+    global que
+    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱\n\nCommand:\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
+    if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
