@@ -311,7 +311,7 @@ async def star_deadly():
             pass 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_yukki())       
+loop.run_until_complete(start_deadly())       
 
 async def gifspam(e, smex):
     try:
