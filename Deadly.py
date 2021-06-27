@@ -701,7 +701,8 @@ async def _(e):
 @cdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 @edk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 @ddk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-async def _(e):
+async def _(e):ö
+
     global que
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱\n\nCommand:\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
     if e.sender_id in SMEX_USERS:
@@ -848,7 +849,7 @@ text = """
 
 print(text)
 print("")
-print("SMEX! Deadly Multi Spam Bot Started Sucessfully.")
+print("CONGRATULATIONS 🥳🥳..UR SPAM BOT IS READY TO USE..NOW TYPE ..ping TO CHEACK I AM OR NOT ... JOIN SUPPORT - @DEADLY_SPAM_BOT")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
