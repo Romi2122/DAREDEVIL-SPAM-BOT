@@ -14,3 +14,8 @@
 
 [![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
     
+
+CREDITS -
+
+TEAM YUKKI
+[YUKKI MULTI SESSION BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
