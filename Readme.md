@@ -43,4 +43,6 @@
     
 -------------------------------------------------
 
+## credits 
 
+[yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
