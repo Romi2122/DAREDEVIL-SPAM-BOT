@@ -1,7 +1,7 @@
 {
-  "name": "YUKKI SPAM USERBOT",
+  "name": "DEADLY SPAM USERBOT",
   "description": "A Powerful Telegram Spam Userbot.",
-  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
+  "logo": "https://telegra.ph/file/b8e3d5d94082a37b61d8a.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -17,6 +17,11 @@
         "description": "Telethon String Session",
         "value": "",
         "required": true
+      },
+      "STRING1": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
       },
       "STRING2": {
         "description": "Telethon String Session",
@@ -54,11 +59,6 @@
         "required": false
       },
       "STRING9": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING10": {
         "description": "Telethon String Session",
         "value": "",
         "required": false
