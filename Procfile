@@ -1,1 +1,1 @@
-worker: python3 Deadly.py
+worker: python3 EAGLE.py
