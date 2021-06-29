@@ -30,5 +30,5 @@
 
 ## credits 
 
-[YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot),
+[YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot) AND
 [DEADLY BOT](https://github.com/sameerpanthi/DEADLY-OP-BOT)
