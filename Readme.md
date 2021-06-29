@@ -1,24 +1,24 @@
-# EAGLE SPAMMER
+# SPAM X BOT
 
 <p align="center">
-  <img src="https://telegra.ph/file/21f185cca1f095e146a8c.jpg">
+  <img src="https://telegra.ph/file/f587ba4e63d33c5c85150.jpg">
 </p>
 
 -------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/EAGLE_MAFIA_SPAM_BOT_SUPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/EAGLE_MAFIA_SPAM_BOT_SUPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/H3HEHE"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/HEHEHEH"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[SIDDHARTH](https://t.me/baby_kha_ho_avo_kiss_dungi)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[]()
 
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FEAGLE-SPAMMER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FSPAM-X-BOT)
 
 ------------------------------------------------
 
@@ -30,4 +30,5 @@
 
 ## credits 
 
-[yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
+[YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot),
+[DEADLY BOT](https://github.com/sameerpanthi/DEADLY-OP-BOT)
