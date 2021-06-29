@@ -7,4 +7,4 @@ RUN mkdir /app/
 WORKDIR /app/
 COPY . /app/
 RUN pip3 install -U -r requirements.txt
-CMD python3 EAGLE.py
+CMD python3 SPAM-X-BOT.py
