@@ -1,1 +1,1 @@
-worker: python3 EAGLE.py
+worker: python3 SPAM-X-BOT.py
