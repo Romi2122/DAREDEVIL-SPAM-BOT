@@ -1,1 +1,1 @@
-worker: python3 DAREDEVIL-SPAM-BOT.py
+worker: python3 SPAM-X-BOT.py
