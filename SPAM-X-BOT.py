@@ -847,7 +847,7 @@ text = """
 
 print(text)
 print("")
-print("CONGRATULATIONS 🥳🥳..UR SPAM X BOT IS READY TO USE..NOW TYPE ..ping TO CHEACK I AM OR NOT ...")
+print("KIYA DEKH RAHA LAWDE😏....BOT BNN GYA😎 TERA... GAAND DEDE ABB ISSI KHUSHI MEIN DEVELOPER KO🔥🤣🤣🤘🤘...")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
