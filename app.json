@@ -1,7 +1,7 @@
 {
-  "name": "SPAM-X-BOT",
+  "name": "DAREDEVIL-SPAM-BOT",
   "description": "A Powerful Telegram Spam Userbot.",
-  "logo": "https://telegra.ph/file/f587ba4e63d33c5c85150.jpg",
+  "logo": "https://telegra.ph/file/d27665076f9f473b655ab.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -69,7 +69,7 @@
         "required": true
       },
       "SUDO": {
-        "description": "Sudo Users Id",
+        "description": "Sudo Users Id ",
         "value": "",
         "required": true
       }
