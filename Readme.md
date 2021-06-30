@@ -30,7 +30,7 @@
 
 ## Credits 🏅
   
-• [ShehhZada](https://github.com/ShehhZada):DEV
+• [ShehhZada](https://github.com/ShehhZada):SUPPORTER
 
 • [YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot):SUPPORTER
 
