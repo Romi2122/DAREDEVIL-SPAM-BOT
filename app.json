@@ -70,8 +70,8 @@
       },
       "SUDO": {
         "description": "Sudo Users Id ",
-        "value": "1743932456",
-        "required": false
+        "value": "",
+        "required": true
       }
   },
   "addons": [{
