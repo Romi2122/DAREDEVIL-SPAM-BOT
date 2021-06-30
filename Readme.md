@@ -1,15 +1,15 @@
-# SPAM X BOT
+# DAREDEVIL SPAM BOT
 
 <p align="center">
-  <img src="https://telegra.ph/file/f587ba4e63d33c5c85150.jpg">
+  <img src="https://telegra.ph/file/d27665076f9f473b655ab.jpg">
 </p>
 
 -------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/SPAMX_CHAT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SPAMX_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DAREDEVIL_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DAREDEVIL_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
@@ -30,5 +30,6 @@
 
 ## credits 
 
+[ShehhZada](https://github.com/ShehhZada):DEV
 [YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot) AND
 [DEADLY BOT](https://github.com/sameerpanthi/DEADLY-OP-BOT)
