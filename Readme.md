@@ -28,7 +28,7 @@
     
 -------------------------------------------------
 
-     <summary> • Credits 🏅 • </summary>
+## Credits 🏅
   
 • [ShehhZada](https://github.com/ShehhZada):DEV
 
