@@ -28,8 +28,8 @@
     
 -------------------------------------------------
 
-## credits 
-
-[ShehhZada](https://github.com/ShehhZada):DEV
-[YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot) AND
-[DEADLY BOT](https://github.com/sameerpanthi/DEADLY-OP-BOT)
+## <summary> • Credits 🏅 • </summary>
+  
+• [ShehhZada](https://github.com/ShehhZada):DEV
+• [YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot):SUPPORTER
+• [DEADLY BOT](https://github.com/sameerpanthi/DEADLY-OP-BOT):SUPPORTER
