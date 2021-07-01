@@ -69,9 +69,9 @@
         "required": true
       },
       "SUDO": {
-        "description": "Sudo Users Id....If u want to add sudo then give a space nd write Sudo Id ",
-        "value": "1743932456",
-        "required": false
+        "description": "Sudo Users Id",
+        "value": "",
+        "required": true
       }
   },
   "addons": [{
