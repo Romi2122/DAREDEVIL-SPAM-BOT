@@ -375,7 +375,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("Join ho gya...Chal Abb Gaand Dilwa De Group Waalo Ki..")
+                await event.edit("Join ho gya Chal Abb Gaand Dilwa De Group Waalo Ki...")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -401,7 +401,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("Join ho gya...Chal Abb Gaand Dilwa De Group Waalo Ki..")
+                await event.edit("Join ho gya Chal Abb Gaand Dilwa De Group Waalo Ki...")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -425,11 +425,11 @@ async def _(e):
         if len(e.text) > 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "Leave ho raha hu lwde"
+            text = "Leave ho raha hu lwde..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Ho gya Leave...")
+                await event.edit("Bhosdiwale Ho Gya Leave...")
             except Exception as e:
                 await event.edit(str(e))   
         else:
