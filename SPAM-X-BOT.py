@@ -371,11 +371,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "Joining..."
+            text = "Ruk aa Raha Gaand Maarne Group Waalo Kii..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("Succesfully Joined")
+                await event.edit("Join ho gya...Chal Abb Gaand Dilwa De Group Waalo Ki..")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -397,11 +397,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "Joining...."
+            text = "Ruk aa Raha Gaand Maarne Group Waalo Kii..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("Succesfully Joined")
+                await event.edit("Join ho gya...Chal Abb Gaand Dilwa De Group Waalo Ki..")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -422,14 +422,14 @@ async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n.leave <Channel or Chat ID>"
     if e.sender_id in SMEX_USERS:
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
-        if len(e.text) == 7:
+        if len(e.text) > 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "Leaving....."
+            text = "Leave ho raha hu lwde"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left")
+                await event.edit("Ho gya Leave...")
             except Exception as e:
                 await event.edit(str(e))   
         else:
