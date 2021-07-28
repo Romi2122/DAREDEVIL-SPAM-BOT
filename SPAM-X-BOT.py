@@ -842,12 +842,15 @@ async def help(e):
     
         
 text = """
-█▀▄ ▄▀█ █▀█ █▀▀ █▀▄ █▀▀ █░█ █ █░░
-█▄▀ █▀█ █▀▄ ██▄ █▄▀ ██▄ ▀▄▀ █ █▄▄"""
-
+██████   █████  ██████  ███████ ██████  ███████ ██    ██ ██ ██
+██   ██ ██   ██ ██   ██ ██      ██   ██ ██      ██    ██ ██ ██
+██   ██ ███████ ██████  █████   ██   ██ █████    ██  ██  ██ ██
+██   ██ ██   ██ ██   ██ ██      ██   ██ ██        ████   ██ ██
+██████  ██   ██ ██   ██ ███████ ██████  ███████    ██    ██ ███████
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚══════╝"""
 print(text)
 print("")
-print("KIYA DEKH RAHA LAWDE😏....BOT BNN GYA😎 TERA... GAAND DEDE ABB ISSI KHUSHI MEIN DEVELOPER KO🔥🤣🤣🤘🤘...")
+print("KIYA DEKH RAHA LAWDE😏....BOT BNN GYA😎 TERA... GAAND DEDE ABB ISSI KHUSHI MEIN DEVELOPER KO🔥🤣🤣🤘🤘....")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
