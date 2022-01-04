@@ -8,12 +8,12 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/DAREDEVIL_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DAREDEVIL_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/team_shield_x"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/aman_jha_officia"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[PRO](https://t.me/LEGENDJATTRAVI1)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[PRO](https://t.me/miss_shreya_Sinha)
 
 -------------------------------------------------
 
