@@ -1,4 +1,4 @@
-# DAREDEVIL SPAM BOT
+# YUGMEER SPAM BOT
 
 <p align="center">
   <img src="https://telegra.ph/file/d27665076f9f473b655ab.jpg">
